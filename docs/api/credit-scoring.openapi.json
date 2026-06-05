@@ -37,7 +37,8 @@
                   "value": {
                     "applicant": {
                       "full_name": "Budi Santoso",
-                      "phone_number": "08123456789"
+                      "phone_number": "08123456789",
+                      "email": "Budi@gmail.com"
                     },
                     "financial": {
                       "monthly_income": 8500000,
